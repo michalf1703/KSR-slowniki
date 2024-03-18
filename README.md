@@ -71,5 +71,35 @@ Ten repozytorium zawiera zestawy słowników słów kluczowych, które są wykor
 - who - World Health Organization
 - worldbank - World Bank
 
+  ## Nazwy walut - rozwinięcie skrótów
+  - U.S. Dollar (DLR)
+- Australian Dollar (AUSTDLR)
+- Hong Kong Dollar (HK)
+- Singapore Dollar (SINGDLR)
+- New Zealand Dollar (NZDLR)
+- Canadian Dollar (CAN)
+- Sterling (STG)
+- D-Mark (DMK)
+- Japanese Yen (YEN)
+- Swiss Franc (SFR)
+- French Franc (FFR)
+- Belgian Franc (BFR)
+- Netherlands Guilder/Florin (DFL)
+- Italian Lira (LIT)
+- Danish Krone/Crown (DKR)
+- Norwegian Krone/Crown (NKR)
+- Swedish Krona/Crown (SKR)
+- Mexican Peso (MEXPESO)
+- Brazilian Cruzado (CRUZADO)
+- Argentine Austral (AUSTRAL)
+- Saudi Arabian Riyal (SAUDRIYAL)
+- South African Rand (RAND)
+- Indonesian Rupiah (RUPIAH)
+- Malaysian Ringitt (RINGGIT)
+- Portuguese Escudo (ESCUDO)
+- Spanish Peseta (PESETA)
+- Greek Drachma (DRACHMA)
+
+
 
 
