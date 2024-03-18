@@ -1,6 +1,7 @@
 # Słowniki Słów Kluczowych
 
 Ten repozytorium zawiera zestawy słowników słów kluczowych, które są wykorzystane w projekcie 1. 
+- Słowo kluczowe - pewna fraza bądź termin, który jest dość charakterystyczny i reprezentatywna dla danej kategorii/etykiety (słownik pewnych wyrazów) np. nazwy krain geograficznych, kontynentów
 
 ## Słowniki
 
